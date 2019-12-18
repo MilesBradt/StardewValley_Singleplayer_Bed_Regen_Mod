@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Single Player Health and Stamina Regen in Bed",
+  "Author": "Snowman",
+  "Version": "1.0.0",
+  "Description": "Health and Stamina will regenerate when in bed just like it does in multiplayer but while in single player.",
+  "UniqueID": "Snowman.SinglePlayerBedRegen",
+  "MinimumApiVersion": "2.11",
+  "EntryDLL": "SinglePlayerBedRegen.dll",
+  "UpdateKeys": []
+}
+
