@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SinglePlayerBedRegen/ModEntry.cs">
+    <Files>
+      <File FileName="SinglePlayerBedRegen/ModEntry.cs" Line="15" Column="78" />
+      <File FileName="SinglePlayerBedRegen/manifest.json" />
+      <File FileName="SinglePlayerBedRegen/packages.config" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SinglePlayerBedRegen" expanded="True">
+            <Node name="SinglePlayerBedRegen" expanded="True">
+              <Node name="ModEntry.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

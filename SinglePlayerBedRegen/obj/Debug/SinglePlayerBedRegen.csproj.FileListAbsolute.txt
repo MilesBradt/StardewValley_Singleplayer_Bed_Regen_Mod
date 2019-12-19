@@ -1,4 +1,5 @@
 /Users/miles/Documents/Projects/SinglePlayerBedRegen/SinglePlayerBedRegen/bin/Debug/SinglePlayerBedRegen.dll
 /Users/miles/Documents/Projects/SinglePlayerBedRegen/SinglePlayerBedRegen/bin/Debug/SinglePlayerBedRegen.pdb
+/Users/miles/Documents/Projects/SinglePlayerBedRegen/SinglePlayerBedRegen/obj/Debug/SinglePlayerBedRegen.csprojAssemblyReference.cache
 /Users/miles/Documents/Projects/SinglePlayerBedRegen/SinglePlayerBedRegen/obj/Debug/SinglePlayerBedRegen.dll
 /Users/miles/Documents/Projects/SinglePlayerBedRegen/SinglePlayerBedRegen/obj/Debug/SinglePlayerBedRegen.pdb
